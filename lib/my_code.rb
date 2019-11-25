@@ -1,4 +1,4 @@
 # Your Code Here
 def map(array)
-  yeild(array.map {|i| i})
+  yield(array.map {|i| i})
 end
