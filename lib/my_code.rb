@@ -1,5 +1,5 @@
 # Your Code Here
 def map(array)
-  array.map {|i|  "block text"}
+  array.map {|i|  p i}
   return array
 end
