@@ -1,5 +1,4 @@
 # Your Code Here
 def map(array)
-  array.map {|i| i * -1}
-  return array
+  return array.map {|i| i * -1}
 end
