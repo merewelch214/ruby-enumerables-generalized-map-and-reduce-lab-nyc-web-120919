@@ -1,4 +1,4 @@
 # Your Code Here
 def map(array)
-  return array.map {|i| i * -1}
+  yeild(array.map {|i| i})
 end
